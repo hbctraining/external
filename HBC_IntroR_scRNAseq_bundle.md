@@ -7,9 +7,9 @@
 ### **Course Details:**
 This **hands-on** course spans **5 consecutive days** with 4.5 hours of synchronous teaching time and 2 hours of homework per day. The workshop is designed for beginners without any programming experience. ***All sessions will be held online over Zoom.***
 
-**Morning sessions**: 9:30 AM - 12 PM
+**Morning sessions**: 9:30 AM - 12 PM EST
 
-**Afternoon sessions**: 1:00 PM - 3:00 PM
+**Afternoon sessions**: 1:00 PM - 3:00 PM EST
 
 ---
 
