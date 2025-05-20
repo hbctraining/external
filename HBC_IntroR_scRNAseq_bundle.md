@@ -5,7 +5,7 @@
 > A unique opportunity to get trained in best practices for single cell RNA-seq analysis!
 
 ### **Course dates and times:**
-This **hands-on** course spans **5 consecutive days** with 4.5 hours of synchronous teaching time and 2 hours of homework per day. The workshop is designed for beginners without any programming experience. _All sessions will be held online over Zoom._
+This **hands-on** course spans **5 consecutive days** with 4.5 hours of synchronous teaching time and 2 hours of homework per day. The workshop is designed for beginners without any programming experience. ***All sessions will be held online over Zoom.***
 
 **Morning sessions**: 9:30 AM - 12 PM
 
