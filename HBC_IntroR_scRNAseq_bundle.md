@@ -2,7 +2,7 @@
 <img src="assets/images/cells_to_insights.png" width="900">
 </p>
 
-> A unique opportunity to get trained in best practices for single cell RNA-seq analysis!
+> A unique opportunity to get trained in best practices for single cell RNA-seq analysis.
 
 ### **Course dates and times:**
 This **hands-on** course spans **5 consecutive days** with 4.5 hours of synchronous teaching time and 2 hours of homework per day. The workshop is designed for beginners without any programming experience. ***All sessions will be held online over Zoom.***
@@ -14,15 +14,15 @@ This **hands-on** course spans **5 consecutive days** with 4.5 hours of synchron
 ---
 
 ### **Description:**
-This course begins with an **introduction to using R and RStudio**. Participants will learn the basics of R syntax and how to utlilize functions and packages in R for reproducible data wrangling and visualizations. Next, we will begin data analysis in R using single cell RNA-seq count data. Participants will use Seurat and associated tools to perform **analysis of single-cell expression data**, including data filtering, QC, integration, clustering, and marker identification analysis. Finally, the workshop will demonstrate **pseudobulk** and other approaches for identifying differential expression of genes across samples groups.
+This course begins with an introduction to using R and RStudio. Participants will learn the basics of R syntax and how to utlilize functions and packages in R for reproducible data wrangling and visualizations. Next, we will begin data analysis in R using single cell RNA-seq count data. Participants will use Seurat and associated tools to perform analysis of single-cell expression data, including data filtering, QC, integration, clustering, and marker identification analysis. Finally, the workshop will demonstrate pseudobulk and other approaches for identifying differential expression of genes across samples groups.
 
 ---
 
 ### **Who should attend?**
 
-Any interested individuals who are keen in obtaining a **foundational understanding** of the analysis workflow for analyzing **single cell RNA-seq data in R.** 
+Any interested individuals who are keen in obtaining a foundational understanding of the analysis workflow for analyzing single cell RNA-seq data in R. 
 
-We encourage researchers who are working on scRNA-seq data or have plans to embark on single cell experiments in the near future to apply to this course.
+***We encourage researchers who are working on scRNA-seq data or have plans to embark on single cell experiments in the near future to apply to this course.***
 
 ---
 
