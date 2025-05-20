@@ -4,8 +4,8 @@
 
 > A unique opportunity to get trained in best practices for single cell RNA-seq analysis!
 
-### **Workshop dates and times:**
-This **hands-on** workshop spans **5 consecutive days** with 4.5 hours of synchronous teaching time and 2 hours of homework per day. The workshop is designed for beginners without any programming experience. _All sessions will be held online over Zoom._
+### **Course dates and times:**
+This **hands-on** course spans **5 consecutive days** with 4.5 hours of synchronous teaching time and 2 hours of homework per day. The workshop is designed for beginners without any programming experience. _All sessions will be held online over Zoom._
 
 **Morning sessions**: 9:30 AM - 12 PM
 
@@ -14,7 +14,51 @@ This **hands-on** workshop spans **5 consecutive days** with 4.5 hours of synchr
 ---
 
 ### **Description:**
-This workshop begins with an **introduction to using R and RStudio**. Participants will learn the basics of R syntax and how to utlilize functions and packages in R for reproducible data wrangling and visualizations. Next, we will begin data analysis in R using single cell RNA-seq count data. Participants will use Seurat and associated tools to perform **analysis of single-cell expression data**, including data filtering, QC, integration, clustering, and marker identification analysis. Finally, the workshop will demonstrate **pseudobulk** and other approaches for identifying differential expression of genes across samples groups.
+This course begins with an **introduction to using R and RStudio**. Participants will learn the basics of R syntax and how to utlilize functions and packages in R for reproducible data wrangling and visualizations. Next, we will begin data analysis in R using single cell RNA-seq count data. Participants will use Seurat and associated tools to perform **analysis of single-cell expression data**, including data filtering, QC, integration, clustering, and marker identification analysis. Finally, the workshop will demonstrate **pseudobulk** and other approaches for identifying differential expression of genes across samples groups.
+
+---
+
+### **Who should attend?**
+
+Any interested individuals who are keen in obtaining a **foundational understanding** of the analysis workflow for analyzing **single cell RNA-seq data in R.** 
+
+We encourage researchers who are working on scRNA-seq data or have plans to embark on single cell experiments in the near future to apply to this course.
+
+---
+
+### **Cost:**
+
+There is a _non-refundable_ and _non-transferable_ registration fee for this advanced workshop. The registration fee options are outlined below:
+
+* Harvard Academic Rate: $960 USD
+* External Academic Rate: $1250 USD
+* Industry rate: $1750 USD
+
+Due to limited space the workshop can accommodate **maximum of 25 participants**. Seats are assigned on a **first come, first serve** basis.
+
+ 
+---
+
+### **Registration:**
+
+
+<div style="text-align:center">
+	 <a><button name="button" style = "color: red" >Registration is now closed!</button></a>
+</div>
+
+
+<!--
+<div style="text-align:center">
+	 <a><button name="button" style = "color: blue" onclick="location.href='https://harvard.az1.qualtrics.com/jfe/form/SV_e2NGHEn79ElEUHY'">Click here to Register!</button></a>
+</div>
+-->
+
+<!-- This content will not appear in the rendered Markdown -->
+
+
+---
+
+### **Course Outline:**
 
 **Day 1:**
 
@@ -45,52 +89,6 @@ This workshop begins with an **introduction to using R and RStudio**. Participan
 * **Pseudobulk**: Aggregating counts by celltype in preparation for differential gene expression analysis.
 * **Differential expression analysis**: Using DESeq2 to identify differentially expressed genes between sample groups for a given celltype.
 * **Data Visualization**: Comparing the results of the pseudobulk approach to a `FindMarkers()` analysis using data visualizations
-
-
----
-
-### **Who should attend?**
-
-
----
-
-### **Cost:**
-
-There is a ***non-refundable*** and ***non-transferable*** registration fee for this advanced workshop. The registration fee options are outlined below:
-
-* Harvard Academic Rate
-* External Academic Rate
-* Industry rate 
-
----
-
-### **Registration:**
-
-Please make sure you **take the following into account when signing up** for the workshop:
-
-1. _Mandatory attendance for all three classes._
-2. _2-3 hours of reading and exercises from selected lessons before each workshop sessions._
-3. _Active participation during discussion sessions._
-
-<div style="text-align:center">
-	 <a><button name="button" style = "color: red" >Registration is now closed!</button></a>
-</div>
-
-<div style="text-align:center">
-(Registration opens 2 - 3 weeks before the start of advanced workshops.)
-</div> 
-
-<!--
-<div style="text-align:center">
-	 <a><button name="button" style = "color: blue" onclick="location.href='https://harvard.az1.qualtrics.com/jfe/form/SV_e2NGHEn79ElEUHY'">Click here to Register!</button></a>
-</div>
-
-<div style="text-align:center">
-	 (Please check the eligibility requirements below prior to registering)
-</div> 
--->
-
-<!-- This content will not appear in the rendered Markdown -->
 
 ---
 
