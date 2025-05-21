@@ -26,21 +26,8 @@ Any interested individuals who are keen in obtaining a foundational understandin
 
 ---
 
-### **Cost:**
-
-There is a _non-refundable_ and _non-transferable_ registration fee for this advanced workshop. The registration fee options are outlined below:
-
-* Harvard Academic Rate: $960 USD
-* External Academic Rate: $1250 USD
-* Industry rate: $1750 USD
-
-Due to limited space the workshop can accommodate **maximum of 25 participants**. Seats are assigned on a **first come, first serve** basis.
-
- 
----
-
 ### **Registration:**
-
+To register for the course please click on the link below. If you are one of the *first 25 registrants*, you will receive an email within one week with a link to pay the (non-refundable & non-transferable) registration fee.
 
 <div style="text-align:center">
 	 <a><button name="button" style = "color: red" >Registration is now closed!</button></a>
@@ -56,6 +43,19 @@ Due to limited space the workshop can accommodate **maximum of 25 participants**
 <!-- This content will not appear in the rendered Markdown -->
 
 
+---
+
+### **Cost:**
+
+There is a _non-refundable_ and _non-transferable_ registration fee for this advanced workshop. The registration fee options are outlined below:
+
+* Harvard Academic Rate: $960 USD
+* External Academic Rate: $1250 USD
+* Industry rate: $1750 USD
+
+Due to limited space the workshop can accommodate **maximum of 25 participants**. Seats are assigned on a **first come, first serve** basis.
+
+ 
 ---
 
 ### **Course Outline:**
@@ -84,6 +84,7 @@ Due to limited space the workshop can accommodate **maximum of 25 participants**
 * **Pseudobulk**: Aggregating counts by celltype in preparation for differential gene expression analysis.
 * **Differential expression analysis**: Using DESeq2 to identify differentially expressed genes between sample groups for a given celltype.
 * **Data Visualization**: Comparing the results of the pseudobulk approach to a `FindMarkers()` analysis using data visualizations
+
 
 ---
 
