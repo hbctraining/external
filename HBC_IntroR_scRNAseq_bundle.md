@@ -4,8 +4,8 @@
 
 
 
-### **Course Details:**
-This **hands-on** course spans **5 consecutive days** with 4.5 hours of synchronous teaching time and 2 hours of homework per day. The workshop is designed for beginners without any programming experience. ***All sessions will be held online over Zoom.***
+### **Workshop Details:**
+This **hands-on** workshop spans **5 consecutive days** with 4.5 hours of synchronous teaching time and 2 hours of homework per day. The workshop is designed for beginners without any programming experience. ***All sessions will be held online over Zoom.***
 
 **Morning sessions**: 9:30 AM - 12 PM EST
 
@@ -14,7 +14,7 @@ This **hands-on** course spans **5 consecutive days** with 4.5 hours of synchron
 ---
 
 ### **Description:**
-This course begins with an introduction to using R and RStudio. Participants will learn the basics of R syntax and how to utlilize functions and packages in R for reproducible data wrangling and visualizations. Next, we will begin data analysis in R using single cell RNA-seq count data. Participants will use Seurat and associated tools to perform analysis of single-cell expression data, including data filtering, QC, integration, clustering, and marker identification analysis. Finally, the workshop will demonstrate pseudobulk and other approaches for identifying differential expression of genes across samples groups.
+This workshop begins with an introduction to using R and RStudio. Participants will learn the basics of R syntax and how to utlilize functions and packages in R for reproducible data wrangling and visualizations. Next, we will begin data analysis in R using single cell RNA-seq count data. Participants will use Seurat and associated tools to perform analysis of single-cell expression data, including data filtering, QC, integration, clustering, and marker identification analysis. Finally, the workshop will demonstrate pseudobulk and other approaches for identifying differential expression of genes across samples groups.
 
 ---
 
@@ -22,23 +22,24 @@ This course begins with an introduction to using R and RStudio. Participants wil
 
 Any interested individuals who are keen in obtaining a foundational understanding of the analysis workflow for analyzing single cell RNA-seq data in R. 
 
-***We encourage researchers who are working on scRNA-seq data or have plans to embark on single cell experiments in the near future to apply to this course.***
+***We encourage academic and industry researchers who are working on scRNA-seq data or have plans to embark on single cell experiments in the near future to apply to this workshop.***
 
 ---
 
 ### **Registration:**
 To register for the course please click on the link below. If you are one of the *first 25 registrants*, you will receive an email within one week with a link to pay the (non-refundable & non-transferable) registration fee.
 
+<!--
 <div style="text-align:center">
 	 <a><button name="button" style = "color: red" >Registration is now closed!</button></a>
 </div>
 
+-->
 
-<!--
 <div style="text-align:center">
 	 <a><button name="button" style = "color: blue" onclick="location.href='https://harvard.az1.qualtrics.com/jfe/form/SV_9MFlOEFb3W5AfBA'">Click here to Register!</button></a>
 </div>
--->
+
 
 <!-- This content will not appear in the rendered Markdown -->
 
@@ -47,7 +48,7 @@ To register for the course please click on the link below. If you are one of the
 
 ### **Cost:**
 
-There is a _non-refundable_ and _non-transferable_ registration fee for this advanced workshop. The registration fee options are outlined below:
+There is a _non-refundable_ and _non-transferable_ registration fee for this workshop. The registration fee options are outlined below:
 
 * Harvard Academic Rate: $960 USD
 * External Academic Rate: $1250 USD
@@ -58,7 +59,7 @@ Due to limited space the workshop can accommodate **maximum of 25 participants**
  
 ---
 
-### **Course Outline:**
+### **Workshop Outline:**
 
 ### **Day 1:**
 * **R syntax**: Understanding the different 'parts of speech' in R; introducing variables and functions, demonstrating how functions work, and modifying arguments for specific use cases.
