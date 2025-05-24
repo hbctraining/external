@@ -48,11 +48,16 @@ To register for the course please click on the link below. If you are one of the
 
 ### **Cost:**
 
-There is a _non-refundable_ and _non-transferable_ registration fee for this workshop. The registration fee options are outlined below:
+There is a _non-refundable_ and _non-transferable_ registration fee for this workshop. The registration fee options are outlined below.
 
-* Harvard Academic Rate: $960 USD
-* External Academic Rate: $1250 USD
-* Industry rate: $1750 USD
+***Early Bird Pricing available until June 6th!***
+
+| Rate Category | Early Bird  | Regular Rate| 
+|:---------------|:-------------:|:-------------:|
+| Harvard Academic  | $860 USD | $960 USD |
+| External Academic | $1125 USD | $1250 USD |
+| Industry | $1575 USD | $1750 USD |
+
 
 Due to limited space the workshop can accommodate **maximum of 25 participants**. Seats are assigned on a **first come, first serve** basis.
 
