@@ -1,20 +1,39 @@
 ---
 ---
 
+---
+---
+
 @import "{{ site.theme }}";
 
-body { 
-  background: #fff !important; 
+/* Full page and container backgrounds */
+body,
+.container {
+  background: #fff !important;
 }
 
+/* Page header adjustments */
 .page-header {
-  background-color: #fff !important;
-  border: none !important;
+  background-color: #fff !important;   /* Make header area white */
+  border: none !important;             /* Remove header border */
   background-image: url("../images/series_banner.jpg");
+  background-size: cover;              /* Optional: make the banner cover the header area */
+  background-position: center;
   color: #fff;
   text-align: center;
+  padding: 0 !important;               /* Remove theme's padding */
+  margin: 0 !important;
 }
 
+/* Remove default background/border from header image */
+.page-header img {
+  background: transparent !important;
+  border: none !important;
+  display: block;
+  margin: 0 auto;
+}
+
+/* Headings color */
 .main-content h1, 
 .main-content h2, 
 .main-content h3, 
@@ -27,6 +46,7 @@ body {
   color: #000000; 
 }
 
+/* Hide unwanted header text if needed */
 .site-header h1,
 .site-header p {
   display: none;
