@@ -1,42 +1,46 @@
----
----
-
-@import "{{ site.theme }}";
-
 html,
 body,
 .wrapper,
 .container,
+.row,
 .main-content,
-.col-md-9 {
+.col-md-9,
+#main-content {
   background: #fff !important;
 }
 
-body {
+body,
+.wrapper,
+.container,
+.row,
+.col-md-9 {
+  margin: 0 !important;
+  padding: 0 !important;
+  box-shadow: none !important;
+}
+
+.col-md-9 {
+  min-height: 0 !important;
+}
+
+.page-header {
+  background: #fff !important;
+  border: none !important;
+  box-shadow: none !important;
   margin: 0 !important;
   padding: 0 !important;
 }
 
-.wrapper {
-  min-height: 0 !important;
-  padding-top: 0 !important;
-}
-
-.page-header {
-  margin-bottom: 0 !important;
-  padding-bottom: 0 !important;
-}
-
-/* Other overrides as needed */
-.main-content h1,
-.main-content h2,
-.main-content h3,
-.main-content h4,
-.main-content h5,
-.main-content h6 {
-  margin-top: 2rem;
-  margin-bottom: 1rem;
-  font-weight: normal;
+/* If you want headings to always be black: */
+.main-content h1, 
+.main-content h2, 
+.main-content h3, 
+.main-content h4, 
+.main-content h5, 
+.main-content h6 { 
+  margin-top: 2rem; 
+  margin-bottom: 1rem; 
+  font-weight: normal; 
   color: #000000;
 }
 
