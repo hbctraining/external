@@ -7,10 +7,12 @@ body {
   background: #fff !important; 
 }
 
-.page-header { 
-  color: #fff; 
-  text-align: center; 
-  background-image: url("../images/series_banner.jpg")
+.page-header {
+  background-color: #fff !important;
+  border: none !important;
+  background-image: url("../images/series_banner.jpg");
+  color: #fff;
+  text-align: center;
 }
 
 .main-content h1, 
