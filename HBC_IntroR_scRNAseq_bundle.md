@@ -20,7 +20,7 @@ This workshop begins with an introduction to using R and RStudio. Participants w
 
 ### **Who should attend?**
 
-Any interested individuals who are keen in obtaining a foundational understanding of the analysis workflow for analyzing single cell RNA-seq data in R. 
+Any interested individuals who are keen in obtaining a foundational understanding of the workflow for analyzing single cell RNA-seq data in R. 
 
 ***We encourage academic and industry researchers who are working on scRNA-seq data or have plans to embark on single cell experiments in the near future to apply to this workshop.***
 
@@ -77,7 +77,7 @@ Due to limited space the workshop can accommodate **maximum of 25 participants**
 
 
 ### **Day 3:**
-* **Experimental considerations for scRNA-seq**: A practical guide on setting up a successful single cell experiment, and detailed information on different platforms.
+* **Experimental considerations for scRNA-seq**: A practical guide on setting up a successful single cell experiment and detailed information on different platforms.
 * **Quality control**: Understanding cellranger output and a review of the web summary HTML report. Exploring additional quality control metrics using the Seurat object and various data visualizations in R. 
 * **Normalization**: Exploring unwanted variation in the data and applying various normalizations to the data.
 
@@ -89,7 +89,7 @@ Due to limited space the workshop can accommodate **maximum of 25 participants**
 ### **Day 5:**
 * **Pseudobulk**: Aggregating counts by celltype in preparation for differential gene expression analysis.
 * **Differential expression analysis**: Using DESeq2 to identify differentially expressed genes between sample groups for a given celltype.
-* **Data Visualization**: Comparing the results of the pseudobulk approach to a `FindMarkers()` analysis using data visualizations
+* **Data Visualization**: Comparing the results of the pseudobulk approach to a `FindMarkers()` analysis using data visualizations.
 
 
 ---
