@@ -1,51 +1,11 @@
 ---
 ---
 
-html,
-body,
-.wrapper,
-.container,
-.row,
-.main-content,
-.col-md-9,
-#main-content {
-  background: #fff !important;
-}
+@import "{{ site.theme }}";
 
-body,
-.wrapper,
-.container,
-.row,
-.col-md-9 {
-  margin: 0 !important;
-  padding: 0 !important;
-  box-shadow: none !important;
-}
+.page-header { color: #fff; text-align: center; background-image: url("../images/series_banner.jpg"); }
 
-.col-md-9 {
-  min-height: 0 !important;
-}
-
-.page-header {
-  background: #fff !important;
-  border: none !important;
-  box-shadow: none !important;
-  margin: 0 !important;
-  padding: 0 !important;
-}
-
-/* If you want headings to always be black: */
-.main-content h1, 
-.main-content h2, 
-.main-content h3, 
-.main-content h4, 
-.main-content h5, 
-.main-content h6 { 
-  margin-top: 2rem; 
-  margin-bottom: 1rem; 
-  font-weight: normal; 
-  color: #000000;
-}
+.main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 { margin-top: 2rem; margin-bottom: 1rem; font-weight: normal; color: #000000; }
 
 .site-header h1,
 .site-header p {
