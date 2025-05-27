@@ -3,30 +3,43 @@
 
 @import "{{ site.theme }}";
 
-/* Full page and container backgrounds */
 html,
 body,
 .wrapper,
 .container,
-.main-content
+.main-content,
 .col-md-9 {
   background: #fff !important;
 }
 
-/* Headings color */
-.main-content h1, 
-.main-content h2, 
-.main-content h3, 
-.main-content h4, 
-.main-content h5, 
-.main-content h6 { 
-  margin-top: 2rem; 
-  margin-bottom: 1rem; 
-  font-weight: normal; 
-  color: #000000; 
+body {
+  margin: 0 !important;
+  padding: 0 !important;
 }
 
-/* Hide unwanted header text if needed */
+.wrapper {
+  min-height: 0 !important;
+  padding-top: 0 !important;
+}
+
+.page-header {
+  margin-bottom: 0 !important;
+  padding-bottom: 0 !important;
+}
+
+/* Other overrides as needed */
+.main-content h1,
+.main-content h2,
+.main-content h3,
+.main-content h4,
+.main-content h5,
+.main-content h6 {
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  font-weight: normal;
+  color: #000000;
+}
+
 .site-header h1,
 .site-header p {
   display: none;
