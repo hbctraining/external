@@ -1,6 +1,4 @@
-<p align="center">
-<img src="assets/images/cells_to_insights.png" width="1000">
-</p>
+
 
 
 
