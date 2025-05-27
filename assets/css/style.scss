@@ -4,7 +4,9 @@
 @import "{{ site.theme }}";
 
 /* Full page and container backgrounds */
+html,
 body,
+.wrapper,
 .container,
 .main-content {
   background: #fff !important;
