@@ -1,6 +1,6 @@
-
-
-
+<p align="center">
+<img src="assets/images/cells_to_insights.png" width="1000">
+</p>
 
 ### **Workshop Details:**
 This **hands-on** workshop spans **5 consecutive days** with 4.5 hours of synchronous teaching time and 2 hours of homework per day. The workshop is designed for beginners without any programming experience. ***All sessions will be held online over Zoom.***
