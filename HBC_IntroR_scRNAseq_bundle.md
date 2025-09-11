@@ -48,7 +48,7 @@ To register for the course please click on the link below. If you are one of the
 
 There is a _non-refundable_ and _non-transferable_ registration fee for this workshop. The registration fee options are outlined below.
 
-***Early Bird Pricing available until June 6th!***
+***Early Bird Pricing available until November 7th!***
 
 | Rate Category | Early Bird  | Regular Rate| 
 |:---------------|:-------------:|:-------------:|
