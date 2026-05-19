@@ -3,7 +3,7 @@
 </p>
 
 ### **Workshop Details:**
-This **hands-on** workshop spans **5 consecutive days** with 4.5 hours of synchronous teaching time and 2 hours of homework per day. The workshop is designed for beginners without any programming experience. ***All sessions will be held online over Zoom.***
+This **hands-on** workshop spans **5 consecutive days** (July 27-31, 2026) with 4.5 hours of synchronous teaching time and 2 hours of homework per day. The workshop is designed for beginners without any programming experience. ***All sessions will be held online over Zoom.***
 
 **Morning sessions**: 9:30 AM - 12 PM EST
 
@@ -38,17 +38,13 @@ To register for the course please click on the link below. If you are one of the
 	 <a><button name="button" style = "color: blue" onclick="location.href='https://harvard.az1.qualtrics.com/jfe/form/SV_9MFlOEFb3W5AfBA'">Click here to Register!</button></a>
 </div>
 
-
-<!-- This content will not appear in the rendered Markdown -->
-
-
 ---
 
 ### **Cost:**
 
 There is a _non-refundable_ and _non-transferable_ registration fee for this workshop. The registration fee options are outlined below.
 
-***Early Bird Pricing available until November 7th!***
+***Early Bird Pricing available until June 26th!***
 
 | Rate Category | Early Bird  | Regular Rate| 
 |:---------------|:-------------:|:-------------:|
@@ -65,30 +61,29 @@ Due to limited space the workshop can accommodate **maximum of 25 participants**
 ### **Workshop Outline:**
 
 ### **Day 1:**
-* **R syntax**: Understanding the different 'parts of speech' in R; introducing variables and functions, demonstrating how functions work, and modifying arguments for specific use cases.
-* **Data structures in R**: Getting a handle on the classes of data structures and the types of data used by R. Reading data into R and using functions to inspect it.
+- **R syntax**: Understanding the different 'parts of speech' in R; introducing variables and functions, demonstrating how functions work, and modifying arguments for specific use cases.
+- **Data structures in R**: Getting a handle on the classes of data structures and the types of data used by R. Reading data into R and using functions to inspect it.
   
 ### **Day 2:**
-* **Data inspection and wrangling**: Using indices and various functions to subset and create datasets, including the tidyverse suite of packages.
-* **Visualizing data**: Visualizing data using plotting functions from the external package ggplot2.
-* **Exporting data and graphics**: Generating new data tables and plots for use outside of the R environment.
+- **Data inspection and wrangling**: Using indices and various functions to subset and create datasets, including the tidyverse suite of packages.
+- **Visualizing data**: Visualizing data using plotting functions from the external package ggplot2.
+- **Exporting data and graphics**: Generating new data tables and plots for use outside of the R environment.
 
 
 ### **Day 3:**
-* **Experimental considerations for scRNA-seq**: A practical guide on setting up a successful single cell experiment and detailed information on different platforms.
-* **Quality control**: Understanding cellranger output and a review of the web summary HTML report. Exploring additional quality control metrics using the Seurat object and various data visualizations in R. 
-* **Normalization**: Exploring unwanted variation in the data and applying various normalizations to the data.
+- **Experimental considerations for scRNA-seq**: A practical guide on setting up a successful single cell experiment and detailed information on different platforms.
+- **Quality control**: Understanding cellranger output and a review of the web summary HTML report. Exploring additional quality control metrics using the Seurat object and various data visualizations in R. 
+- **Normalization**: Exploring unwanted variation in the data and applying various normalizations to the data.
 
 ### **Day 4:**
-* **Integration**: Approaches for combining samples within a dataset, and across datasets.
-* **Clustering cells**: Identifying groups of similar cells based on expression data and and visualization of clusters on a UMAP.
-* **Clustering QC**: Evaluate whether clustering artifacts are present. Assess known cell type markers to derive the identity of the different cell types present amongst clusters.
+- **Integration**: Approaches for combining samples within a dataset, and across datasets.
+- **Clustering cells**: Identifying groups of similar cells based on expression data and and visualization of clusters on a UMAP.
+- **Clustering QC**: Evaluate whether clustering artifacts are present. Assess known cell type markers to derive the identity of the different cell types present amongst clusters.
 
 ### **Day 5:**
-* **Pseudobulk**: Aggregating counts by celltype in preparation for differential gene expression analysis.
-* **Differential expression analysis**: Using DESeq2 to identify differentially expressed genes between sample groups for a given celltype.
-* **Data Visualization**: Comparing the results of the pseudobulk approach to a `FindMarkers()` analysis using data visualizations.
-
+- **Pseudobulk**: Aggregating counts by celltype in preparation for differential gene expression analysis.
+- **Differential expression analysis**: Using DESeq2 to identify differentially expressed genes between sample groups for a given celltype.
+- **Data Visualization**: Comparing the results of the pseudobulk approach to a `FindMarkers()` analysis using data visualizations.
 
 ---
 
