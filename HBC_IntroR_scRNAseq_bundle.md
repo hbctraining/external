@@ -3,7 +3,7 @@
 </p>
 
 ### **Workshop Details:**
-This **hands-on** workshop spans **5 consecutive days** (July 27-31, 2026) with 4.5 hours of synchronous teaching time and 2 hours of homework per day. The workshop is designed for beginners without any programming experience. ***All sessions will be held online over Zoom.***
+This **hands-on** workshop spans **5 consecutive days** (December 7-11, 2026) with 4.5 hours of synchronous teaching time and 2 hours of homework per day. The workshop is designed for beginners without any programming experience. ***All sessions will be held online over Zoom.***
 
 **Morning sessions**: 9:30 AM - 12 PM EST
 
@@ -27,16 +27,17 @@ Any interested individuals who are keen in obtaining a foundational understandin
 ### **Registration:**
 To register for the course please click on the link below. If you are one of the *first 25 registrants*, you will receive an email within one week with a link to pay the (non-refundable & non-transferable) registration fee.
 
-<!--
+
 <div style="text-align:center">
 	 <a><button name="button" style = "color: red" >Registration is now closed!</button></a>
 </div>
 
--->
 
+<!--
 <div style="text-align:center">
 	 <a><button name="button" style = "color: blue" onclick="location.href='https://harvard.az1.qualtrics.com/jfe/form/SV_9MFlOEFb3W5AfBA'">Click here to Register!</button></a>
 </div>
+-->
 
 ---
 
@@ -44,7 +45,7 @@ To register for the course please click on the link below. If you are one of the
 
 There is a _non-refundable_ and _non-transferable_ registration fee for this workshop. The registration fee options are outlined below.
 
-***Early Bird Pricing available until June 26th!***
+***Early Bird Pricing available until November 2nd!***
 
 | Rate Category | Early Bird  | Regular Rate| 
 |:---------------|:-------------:|:-------------:|
